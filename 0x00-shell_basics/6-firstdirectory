@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf
+mkdir /tmp/ny_first_directory/
