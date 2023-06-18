@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Bash script that will display information about subdomains.
 function domain_check {
-	domain_names=("www" "lb-01" "web-01" "web-02")
+	domain_names=("www" "111135-01" "web-01" "web-02")
 
 	for i in "${domain_names[@]}";
 	do
